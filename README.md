@@ -62,3 +62,4 @@ It does not replace a full penetration test or comprehensive
 dynamic security testing.
 
 Project status: Jenkins, Docker, and OWASP ZAP pipeline configured.
+Automatic Jenkins trigger verified.
