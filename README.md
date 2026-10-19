@@ -60,3 +60,5 @@ Utility Steps plugin for JSON parsing.
 The ZAP baseline scan primarily performs passive security testing.
 It does not replace a full penetration test or comprehensive
 dynamic security testing.
+
+Project status: Jenkins, Docker, and OWASP ZAP pipeline configured.
