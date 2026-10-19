@@ -1,0 +1,14 @@
+
+# Generated security reports
+zap-report.html
+zap-report.json
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
